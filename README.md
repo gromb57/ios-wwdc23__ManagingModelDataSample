@@ -1,5 +1,7 @@
 # Managing Model Data Sample
 
+[Source](https://developer.apple.com/documentation/swiftui/managing-model-data-in-your-app)
+
 ## Configure the sample code project
 
 To run the sample app:
